@@ -1,0 +1,9 @@
+[package]
+name = "ec-syslog"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+syslog = "4.0"
+daemonize = "0.5"
+
